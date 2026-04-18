@@ -2,7 +2,7 @@ $(function () {
     const $window = $(window);
     const $navbar = $("#mainNav");
     const $scrollTopBtn = $("#scrollTopBtn");
-    const words = ["responsive websites", "clean interfaces", "modern portfolios", "smooth experiences"];
+    const words = ["UI/UX Design", "Clean interfaces","Responsive websites", "modern portfolios", "Re-Design Website"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
